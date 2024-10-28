@@ -1,8 +1,8 @@
 const MainSection = () => (
   <div className="max-w-7xl mx-auto mt-20">
-    <h1 className="text-white text-7xl my-8">Personajes</h1>
-    <h1 className="text-white text-7xl">Principales</h1>
-    <hr className="h-px my-12 w-96 bg-slate-50 border-0"></hr>
+    <h1 className="text-white text-4xl lg:text-7xl my-8">Personajes</h1>
+    <h1 className="text-white text-4xl lg:text-7xl">Principales</h1>
+    <hr className="h-px my-12 max-w-96 bg-slate-50 border-0"></hr>
     <p className="text-white max-w-3xl">
       The show revolves around the adventures of the members of the Smith household, 
       which consists of parents Jerry and Beth, their children Summer and Morty, 
